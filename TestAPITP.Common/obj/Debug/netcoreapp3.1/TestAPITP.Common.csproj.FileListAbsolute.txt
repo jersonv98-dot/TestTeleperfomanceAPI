@@ -1,0 +1,9 @@
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\bin\Debug\netcoreapp3.1\TestAPITP.Common.deps.json
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\bin\Debug\netcoreapp3.1\TestAPITP.Common.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\bin\Debug\netcoreapp3.1\TestAPITP.Common.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.AssemblyInfoInputs.cache
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.AssemblyInfo.cs
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.Common\obj\Debug\netcoreapp3.1\TestAPITP.Common.csprojAssemblyReference.cache

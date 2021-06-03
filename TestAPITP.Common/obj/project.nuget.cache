@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3k3isX8xlEqOejvxYh6exhbDSz5aJ4pw7m9F3yM0wlkjV2gciZeqsTC3vIMBd5qUHfLcGC//ukPkfmHJhOqAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jerson\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

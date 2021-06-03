@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP\\TestAPITP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\TestAPITP.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\TestAPITP.Business.csproj",
+        "projectName": "TestAPITP.Business",
+        "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\TestAPITP.Business.csproj",
+        "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj"
+              },
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\TestAPITP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\TestAPITP.DataAccess.csproj"
+              },
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj",
+        "projectName": "TestAPITP.Common",
+        "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj",
+        "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\TestAPITP.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\TestAPITP.DataAccess.csproj",
+        "projectName": "TestAPITP.DataAccess",
+        "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\TestAPITP.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Common\\TestAPITP.Common.csproj"
+              },
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj",
+        "projectName": "TestAPITP.Model",
+        "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj",
+        "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP\\TestAPITP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP\\TestAPITP.csproj",
+        "projectName": "TestAPITP",
+        "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP\\TestAPITP.csproj",
+        "packagesPath": "C:\\Users\\Jerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\TestAPITP.Business.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Business\\TestAPITP.Business.csproj"
+              },
+              "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj": {
+                "projectPath": "C:\\Users\\Jerson\\source\\repos\\TestAPITP\\TestAPITP.Model\\TestAPITP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

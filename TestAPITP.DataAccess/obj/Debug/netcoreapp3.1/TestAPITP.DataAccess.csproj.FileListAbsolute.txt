@@ -1,0 +1,17 @@
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.DataAccess.deps.json
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.DataAccess.runtimeconfig.json
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.DataAccess.runtimeconfig.dev.json
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.DataAccess.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.DataAccess.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.Common.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.Model.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.Common.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\bin\Debug\netcoreapp3.1\TestAPITP.Model.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.AssemblyInfo.cs
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.csproj.CopyComplete
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.dll
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.pdb
+C:\Users\Jerson\source\repos\TestAPITP\TestAPITP.DataAccess\obj\Debug\netcoreapp3.1\TestAPITP.DataAccess.genruntimeconfig.cache
